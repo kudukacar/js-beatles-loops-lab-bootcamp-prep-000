@@ -1,8 +1,9 @@
 function theBeatlesPlay(mus, inst) {
   var emptyArray = [];
   for (let i = 0, i < mus.length, i++) {
-emptyArray.push(mus[i] + inst[i]);    
-}
+var text = mus[i] + inst[i];
+emptyArray.push(text);    
+  }
 Return emptyArray;
 }
 function johnLennonFacts(facts) {
