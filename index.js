@@ -9,6 +9,8 @@ function johnLennonFacts(facts) {
   var text = facts[i];
   var i = 0;
   while (i < cars.length) {
-    text += "!!!"
+    text += "!!!";
+    i++;
   }
+  return 
 }
