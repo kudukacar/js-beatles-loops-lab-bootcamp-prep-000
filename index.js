@@ -6,5 +6,5 @@ emptyArray.push(mus[i] + inst[i]);
 Return emptyArray;
 }
 function johnLennonFacts(facts) {
-  
+  while
 }
