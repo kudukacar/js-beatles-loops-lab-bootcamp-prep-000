@@ -6,11 +6,10 @@ emptyArray.push(mus[i] + inst[i]);
 Return emptyArray;
 }
 function johnLennonFacts(facts) {
-  var text = facts[i];
   var i = 0;
   while (i < cars.length) {
-    text += "!!!";
+    facts[i] += "!!!";
     i++;
   }
-  return 
+  return facts;
 }
