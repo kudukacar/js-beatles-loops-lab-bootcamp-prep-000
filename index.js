@@ -4,7 +4,7 @@ function theBeatlesPlay(mus, inst) {
 var text = mus[i] + inst[i];
 emptyArray.push(text);    
   }
-Return emptyArray;
+return emptyArray;
 }
 function johnLennonFacts(facts) {
   var i = 0;
