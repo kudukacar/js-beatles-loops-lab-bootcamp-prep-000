@@ -17,4 +17,6 @@ function iLoveTheBeatles(n) {
   var emptyArray = [];
   var i = 0;
   do {emptyArray.push("I love the Beatles!");
+  i++;
+  
 }
