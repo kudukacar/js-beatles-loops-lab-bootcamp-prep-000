@@ -6,9 +6,9 @@ emptyArray.push(mus[i] + inst[i]);
 Return emptyArray;
 }
 function johnLennonFacts(facts) {
-  var text = "!!!";
+  var text = facts[i];
   var i = 0;
   while (i < cars.length) {
-    text += 
+    text += "!!!"
   }
 }
