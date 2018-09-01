@@ -8,7 +8,7 @@ return emptyArray;
 }
 function johnLennonFacts(facts) {
   var i = 0;
-  while (i < cars.length) {
+  while (i < facts.length) {
     facts[i] += "!!!";
     i++;
   }
