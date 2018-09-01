@@ -8,5 +8,5 @@ Return emptyArray;
 function johnLennonFacts(facts) {
   var text = "!!!";
   var i = 0;
-  
+  while (i < cars.length)
 }
