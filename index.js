@@ -1,6 +1,6 @@
 function theBeatlesPlay(mus, inst) {
   var emptyArray = [];
-  for (let i = 0, i < mus.length + 1, i++) {
+  for (let i = 0, i < mus.length, i++) {
 emptyArray.push(mus[i] + inst[i]);    
 }
 Return emptyArray;
@@ -8,5 +8,5 @@ Return emptyArray;
 function johnLennonFacts(facts) {
   var text = "!!!";
   var i = 0;
-  while (i < cars.length)
+  while (i < cars.length) {
 }
