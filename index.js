@@ -1,6 +1,6 @@
 function theBeatlesPlay(mus, inst) {
   var emptyArray = [];
-  for (let i = 0, i < mus.length, i++) {
+  for (let i = 0; i < mus.length; i++) {
 var text = mus[i] + inst[i];
 emptyArray.push(text);    
   }
